@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(
     name='datastore_mapper',
-    version='0.0.2',
-    description='Object Mapper for google datastore',
+    version='0.0.3',
+    description='Object Mapper for google datastore withour using appengine',
     author='Jeffrey Marvin Forones',
     author_email='aiscenblue@gmail.com',
     license='MIT',
