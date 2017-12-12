@@ -7,7 +7,7 @@ setup(
     author='Jeffrey Marvin Forones',
     author_email='aiscenblue@gmail.com',
     license='MIT',
-    url='https://github.com/aiscenblue/datastore_mapper',
+    url='https://github.com/aiscenblue/datastore-mapper',
     packages=['datastore_mapper'],
     keywords=['datastore', 'google datastore', 'datastore mapper'],  # arbitrary keywords
     install_requires=['google-cloud-datastore', 'sanic'],
