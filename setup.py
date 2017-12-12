@@ -1,13 +1,13 @@
 from distutils.core import setup
 
 setup(
-    name='datastore-mapper',
+    name='datastore_mapper',
     version='0.0.1',
     description='Object Mapper for google datastore',
     author='Jeffrey Marvin Forones',
     author_email='aiscenblue@gmail.com',
     license='MIT',
-    url='https://github.com/aiscenblue/datastore-mapper',
+    url='https://github.com/aiscenblue/datastore_mapper',
     packages=['datastore_mapper'],
     keywords=['datastore', 'google datastore', 'datastore mapper'],  # arbitrary keywords
     install_requires=['google-cloud-datastore', 'sanic'],
