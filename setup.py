@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='datastore_mapper',
-    version='0.0.1',
+    version='0.0.2',
     description='Object Mapper for google datastore',
     author='Jeffrey Marvin Forones',
     author_email='aiscenblue@gmail.com',
